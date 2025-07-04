@@ -11,12 +11,12 @@ export const projects: Project[] = [
     liveLink: 'https://jsonhierarchyvisualizer-suuraajs-projects.vercel.app/',
     type: 'Frontend',
     thumbnail:
-      'https://raw.githubusercontent.com/PraveenGongada/Shortly/refs/heads/main/frontend/docs/images/thumbnail.png',
+      'https://raw.githubusercontent.com/iamsurajchahar/portfolio_new/main/docs/images/json1.png',
     carouselImages: [
-      'https://raw.githubusercontent.com/PraveenGongada/Shortly/refs/heads/main/frontend/docs/images/register.png',
-      'https://raw.githubusercontent.com/PraveenGongada/Shortly/refs/heads/main/frontend/docs/images/dashboard.png',
-      'https://raw.githubusercontent.com/PraveenGongada/Shortly/refs/heads/main/frontend/docs/images/create.png',
-      'https://raw.githubusercontent.com/PraveenGongada/Shortly/refs/heads/main/frontend/docs/images/delete.png',
+      'https://raw.githubusercontent.com/iamsurajchahar/portfolio_new/main/docs/images/json1.png',
+      'https://raw.githubusercontent.com/iamsurajchahar/portfolio_new/main/docs/images/json2.png',
+      'https://raw.githubusercontent.com/iamsurajchahar/portfolio_new/main/docs/images/json3.png',
+      'https://raw.githubusercontent.com/iamsurajchahar/portfolio_new/main/docs/images/json4.png',
     ],
     carouselConfig: {
       interval: 2000,
@@ -33,9 +33,9 @@ export const projects: Project[] = [
     liveLink: '',
     type: 'Full Stack',
     thumbnail:
-      'https://raw.githubusercontent.com/PraveenGongada/Catalyst/refs/heads/main/docs/images/deployment-summary.png',
+      'https://raw.githubusercontent.com/iamsurajchahar/portfolio_new/main/docs/images/ai-resume-shortlister1.png',
     gifUrl:
-      'https://raw.githubusercontent.com/PraveenGongada/Catalyst/refs/heads/main/docs/images/catalyst-demo.gif',
+      'https://raw.githubusercontent.com/iamsurajchahar/portfolio_new/main/docs/images/ai-resume-shortlister1.png',
   },
   {
     id: 3,
@@ -46,9 +46,9 @@ export const projects: Project[] = [
     githubLink: 'https://github.com/iamsurajchahar/kanban',
     type: 'Frontend',
     thumbnail:
-      'https://raw.githubusercontent.com/PraveenGongada/MovieDB/refs/heads/main/docs/images/thumbnail.png',
+      'https://raw.githubusercontent.com/iamsurajchahar/portfolio_new/main/docs/images/kanban_ss.png',
     carouselImages: [
-      'https://raw.githubusercontent.com/PraveenGongada/MovieDB/refs/heads/main/docs/images/home.png',
+      'https://raw.githubusercontent.com/iamsurajchahar/portfolio_new/main/docs/images/kanban_ss.png',
       'https://raw.githubusercontent.com/PraveenGongada/MovieDB/refs/heads/main/docs/images/movie.png',
     ],
     carouselConfig: {
