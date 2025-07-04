@@ -2,7 +2,7 @@ import { Skill } from '../types/types';
 
 export const skills: Skill[] = [
   {
-    category: 'Web Dev',
+    category: 'Frontend',
     technologies: [
       {
         name: 'React',
@@ -55,14 +55,9 @@ export const skills: Skill[] = [
         icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg',
       },
       {
-        name: 'MongoDB',
-        color: '#4E9F3D',
-        icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg',
-      },
-      {
         name: 'NestJs',
         color: '#005571',
-        icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg',
+        icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg',
       },
     ],
   },
@@ -73,6 +68,11 @@ export const skills: Skill[] = [
         name: 'MySQL',
         color: '#336791',
         icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg',
+      },
+       {
+        name: 'MongoDB',
+        color: '#4E9F3D',
+        icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg',
       },
       {
         name: 'Redis',

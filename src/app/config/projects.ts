@@ -44,12 +44,13 @@ export const projects: Project[] = [
       'Kanban is a modern task management website designed to streamline your workflow. It provides an intuitive and visually appealing way to organize and track tasks efficiently, helping you stay productive and focused.',
     tags: ['React', 'Typescript'],
     githubLink: 'https://github.com/iamsurajchahar/kanban',
+    liveLink: 'https://kanban-sooty-mu.vercel.app/',
     type: 'Frontend',
     thumbnail:
       'https://raw.githubusercontent.com/iamsurajchahar/portfolio_new/main/docs/images/kanban_ss.png',
     carouselImages: [
       'https://raw.githubusercontent.com/iamsurajchahar/portfolio_new/main/docs/images/kanban_ss.png',
-      'https://raw.githubusercontent.com/PraveenGongada/MovieDB/refs/heads/main/docs/images/movie.png',
+      'https://raw.githubusercontent.com/iamsurajchahar/portfolio_new/main/docs/images/kanban2.png',
     ],
     carouselConfig: {
       interval: 2000,

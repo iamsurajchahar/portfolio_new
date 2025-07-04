@@ -89,7 +89,7 @@ export const portfolioConfig: PortfolioConfig = {
       projects: projects,
       viewMoreButton: {
         label: 'View More Projects',
-        url: 'https://github.com/PraveenGongada',
+        url: 'https://github.com/iamsurajchahar',
       },
     },
 
