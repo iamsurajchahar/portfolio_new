@@ -43,13 +43,11 @@ const About = () => {
 
   return (
     <section id="about" className="py-24 relative" aria-labelledby="about-title">
-      {/* Decorative elements */}
       <div className="absolute top-0 inset-x-0 h-px bg-gradient-to-r from-transparent via-emerald-500/30 to-transparent" />
       <div className="absolute -left-20 top-40 w-64 h-64 bg-blue-500/5 rounded-full blur-3xl" />
       <div className="absolute -right-20 bottom-40 w-80 h-80 bg-emerald-500/5 rounded-full blur-3xl" />
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        {/* Title with animation */}
         <motion.div
           className="text-center mb-16"
           initial={{ opacity: 0, y: 20 }}
